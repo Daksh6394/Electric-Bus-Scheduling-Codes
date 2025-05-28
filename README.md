@@ -32,4 +32,13 @@ python setup.py install
 CONVERSION OF VISNU SIR ‘S CPLEX CODE INTO PYTHON DOCPLEX
 1.Obtained the values of V  through python code (pre- processing)in the form of dat.file
 2. Then obtained E through V via  for loop
-3.got the output (although not accurate
+3.got the output (although not accurate)
+
+27/06/25
+
+1.Created a st.plot for the model with n = 3 vehicles 
+2.Watched the videos of maxflow
+3.Added extra comments in the code and understood the code 
+4.Went through kulkarni research paper ( tsnf formulation)  and
+the constraints .
+
