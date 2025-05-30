@@ -42,3 +42,14 @@ CONVERSION OF VISNU SIR ‘S CPLEX CODE INTO PYTHON DOCPLEX
 4.Went through kulkarni research paper ( tsnf formulation)  and
 the constraints .
 
+28/06/2025
+
+1. went through the kulkarni paper and worked on the code
+2. understood the various approaches followed in vehicle scheduling
+
+29/06/2025
+1.solved the bug in the code
+2. created a st.plot 
+3. understood the code properly with various parameters of model fucntions
+
+
