@@ -16,23 +16,55 @@ the model.
 take.
 
 26/06/2025
+### Integration of CPLEX and DOcplex
 
-INTEGRATION OF CPLEX AND DOCPLEX 
-1.installed python 3.10
-2. Installed docplex library in jupyter 
-3.through commands we integrated jupyter lab with cplex environment 
-import sys
-sys.path.append(r"C:\Program Files\IBM\ILOG\CPLEX_Studio_22.1.1\cplex\python\3.10\x64_win64")
-import cplex
-from docplex.mp.model import Model
-4. py -3.10 -m venv cplex_env
-5. cplex_env\Scripts\activate
-6.cd "C:\Program 7.Files\IBM\ILOG\CPLEX_Studio2211\cplex\python\3.10\x64_win64"
-python setup.py install
-CONVERSION OF VISNU SIR ‘S CPLEX CODE INTO PYTHON DOCPLEX
-1.Obtained the values of V  through python code (pre- processing)in the form of dat.file
-2. Then obtained E through V via  for loop
-3.got the output (although not accurate)
+- **Python Installation**: 
+  - Installed Python version 3.10.
+
+- **DOcplex Library Setup**: 
+  - Installed the DOcplex library in Jupyter Notebook.
+
+- **Jupyter Lab Integration**: 
+  - Integrated Jupyter Lab with the CPLEX environment using the following commands:
+    ```python
+    import sys
+    sys.path.append(r"C:\Program Files\IBM\ILOG\CPLEX_Studio_22.1.1\cplex\python\3.10\x64_win64")
+    import cplex
+    from docplex.mp.model import Model
+    ```
+
+- **Virtual Environment Creation**: 
+  - Created a virtual environment named `cplex_env` using:
+    ```bash
+    py -3.10 -m venv cplex_env
+    ```
+
+- **Activating Virtual Environment**: 
+  - Activated the virtual environment with:
+    ```bash
+    cplex_env\Scripts\activate
+    ```
+
+- **CPLEX Setup Installation**: 
+  - Navigated to the CPLEX Python directory:
+    ```bash
+    cd "C:\Program Files\IBM\ILOG\CPLEX_Studio_22.1.1\cplex\python\3.10\x64_win64"
+    ```
+  - Installed CPLEX using:
+    ```bash
+    python setup.py install
+    ```
+
+### Conversion of Visnu Sir’s CPLEX Code into Python DOcplex
+
+- **Data Preparation**: 
+  - Obtained values of V through Python code (pre-processing) in the form of a `.dat` file.
+
+- **Edge Calculation**: 
+  - Derived E from V using a for loop.
+
+- **Output Generation**: 
+  - Generated output, although it was not fully accurate.
 
 27/06/25
 
