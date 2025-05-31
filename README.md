@@ -52,4 +52,10 @@ the constraints .
 2. created a st.plot 
 3. understood the code properly with various parameters of model fucntions
 
+30/06/2025 
+1. Solved the entire code , earlier it was not giving the complete schedule of the vehicle now it's giving complete schedule of single vehicle
+2. Although still the vehicle is not showing the exact time difference , so need to make changes in it .
+3. change the arc according to the frequency
+4. 
+
 
