@@ -90,3 +90,6 @@ the constraints .
 3. change the arc according to the frequency
 4. make changes in the miimization fucntion
    
+31/05/2025
+1.we tried to correct the code according to the frequency input 
+2.plotted the stplot of the feasible solution and the output vehicles
