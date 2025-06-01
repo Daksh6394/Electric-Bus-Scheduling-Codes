@@ -1,6 +1,6 @@
 Progress Update:
 
-
+24/05/2025
 • Installed CPLEX and configured the environment.
 • Successfully solved Vishnu’s code using CPLEX.
 • Understood the structure and generation of .dat files.
@@ -15,7 +15,7 @@ the model.
 • Wrote a preprocessing code to prepare a list of possible node that a bus can
 take.
 
-26/06/2025
+26/05/2025
 ### Integration of CPLEX and DOcplex
 
 - **Python Installation**: 
@@ -66,7 +66,7 @@ take.
 - **Output Generation**: 
   - Generated output, although it was not fully accurate.
 
-27/06/25
+27/05/25
 
 1.Created a st.plot for the model with n = 3 vehicles 
 2.Watched the videos of maxflow
@@ -74,17 +74,17 @@ take.
 4.Went through kulkarni research paper ( tsnf formulation)  and
 the constraints .
 
-28/06/2025
+28/05/2025
 
 1. went through the kulkarni paper and worked on the code
 2. understood the various approaches followed in vehicle scheduling
 
-29/06/2025
+29/05/2025
 1.solved the bug in the code
 2.created a st.plot 
 3. understood the code properly with various parameters of model fucntions
 
-30/06/2025 
+30/05/2025 
 1. Solved the entire code , earlier it was not giving the complete schedule of the vehicle now it's giving complete schedule of single vehicle
 2. Although still the vehicle is not showing the exact time difference , so need to make changes in it .
 3. change the arc according to the frequency
