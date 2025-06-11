@@ -119,5 +119,32 @@ frequency .
 2. Made a flowchart
 
 04/06/2025
+1.the nodes shown were not completely accurate because they were not ending towards the nodes 
+we made the changes in the code 
+
+05/06/2025
+1.the answer was coming only with the slacked frequency we made changes such that it gave answer without slacked frequency 
+
+06/06/2025
+1.added the waiting arcs in the code 
+
+07/06/2025
+1.the waiting arcs were showing the same waiting time in the code made changes in the 
+code such that it connected the nodes with nearby node for max wait of around 60 min 
+
+08/06/2025
+1.the waiting arcs were showing the variable waiting this time made changes in the code 
+by changing the frequency.
+
+09/06/2025
+1.waiting arcs made were more as they were overlapping reduced the arcs 
+
+10/06/2025
+1.added the deadheading arcs in the code according to the clivers paper 
+
+11/06/2025
+1.tested the deadheading arcs by increasing the frequency and planning to get the 
+access of param ganga
+
 
 
