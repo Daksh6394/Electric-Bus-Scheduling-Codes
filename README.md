@@ -158,21 +158,25 @@ by changing the frequency.
 access of param ganga
 
 12/06/2025
-1. tried working the code with higher frequency for cplex but was not showing the correct output so\
+1. tried working the code with higher frequency for cplex but it was not showing the correct output so we 
    started tuning the code in order to get the solutions faster 
 
 13/06/2025
-1. went through basics of ga and got the cplex solution for higher frequencies but there were many changes
-   needed in the code .tuned the code to 8 threads 
+
+1. went through basics of genetic algorithm and got the cplex solution for higher frequencies but there are many changes
+   needed in the code  tuned the code to 8 threads fpor faster processing
 
 14/06/2025
-1. went through the basics of genetic and column generation
+
+1. went through the basics of genetic algorithm  and column generation
 
 15/06/2025
-1.went through the papers of the ga and column generation and understood various heuristics 
+
+1. we went through the papers of the ga and column generation and understood various heuristics 
 
 16/06/2025
-1. understoos the kulkarni paper and experimented with the cplex code and tried the code with pulp library .
+
+1. we understood the kulkarni paper and experimented with the cplex code and tried the code with pulp library .
    
 
 
