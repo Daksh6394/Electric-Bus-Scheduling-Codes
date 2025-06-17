@@ -172,7 +172,7 @@ access of param ganga
 1.went through the papers of the ga and column generation and understood various heuristics 
 
 16/06/2025
-1. understoos the kulkarni paper and experimented with the cplex code
+1. understoos the kulkarni paper and experimented with the cplex code and tried the code with pulp library .
    
 
 
