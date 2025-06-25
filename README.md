@@ -190,8 +190,27 @@ and inventory formulation based heuristics .wherein the main aim is to solve the
 generates the dual cost for each scheduled trip and out of this it will create the new subsets till the value is zero or greater than zero .
 once the solution is above 0 it stops and provide the solution with reduced cost .
 
+19/06/2025
+1. ran the column generation code and got the output for the toy problem
 
-   
+20/06/2025
+1.generated the arcs for the multi depot problem by keeping the logic same but just generating the 2 depots X1 and X2 but keeping there id as same  
+and connecting the X1 to atb and X2 to hsk .
+
+21/06/2025 
+1. got the arcs for the multi depot but unable to get the output in the form of old schedule but got in other form
+
+22/06/2025
+1.got the output for the genhetic algorithm for the toy problem 
+
+23/06/2025
+1.Added the inventory arcs in the model 
+
+24/06/2025
+1.working on the ppt and the report 
+
+25/06/2025
+1.working on the ppt and report 
 
 
 
