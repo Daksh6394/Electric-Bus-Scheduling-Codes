@@ -212,6 +212,12 @@ and connecting the X1 to atb and X2 to hsk .
 25/06/2025
 1.working on the ppt and report 
 
+26/06/25
+1.understanding the whole concept and working  on the ppt 
+
+27/06/25
+1.same 
+
 
 
 
